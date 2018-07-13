@@ -1,0 +1,3 @@
+Move block to strong position after mouse up
+Return block to origin if Removable block count = 0
+Check that random result has not block chains
